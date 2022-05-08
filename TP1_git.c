@@ -14,5 +14,7 @@
 
 int main(){
 	printf("Bienvenido!!\n");
+	printf("Menu");
+	
 	return 0;
 }
